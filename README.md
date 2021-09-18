@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ViniCantarelli
 - 👀 I’m interested in Websites and Networking
 - 🌱 I’m currently learning Computer Systems Technology at St.Clair College
-- 💞️ I’m looking to collaborate on Websites and Protecting Peoples' data against Black Hat Hackers
+- 💞️ I’m looking to collaborate on Websites and Protecting Peoples' data in the Network
 - 📫 How to reach me viniciuscan@outlook.com  OR   https://www.linkedin.com/in/vinicius-lins-4b7603215/
 
 <!---
